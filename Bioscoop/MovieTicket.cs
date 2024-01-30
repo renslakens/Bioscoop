@@ -4,7 +4,7 @@ public class MovieTicket {
     private int RowNr;
     private int SeatNr;
     private bool isPremium;
-    private MovieScreening movieScreening { get; }
+    private MovieScreening movieScreening;
 
     public MovieTicket(MovieScreening movieScreening, int RowNr, int SeatNr, bool isPremium) {
         this.movieScreening = movieScreening;
@@ -19,6 +19,10 @@ public class MovieTicket {
 
     public double getPrice() {
         return this.movieScreening.getPricePerSeat();
+    }
+
+    public MovieScreening GetMovieScreening() {
+        
     }
 
     public override string ToString() {
