@@ -33,7 +33,7 @@ public class Order {
             }
 
             // Check if it's a student order or a weekday for non-student orders
-            if (isStudentOrder) {
+            if (isStudentOrder || tickets[i].GetMovieScreening().getDateAndTime().DayOfWeek != DayOfWeek.Saturday && tickets[i].GetMovieScreening().getDateAndTime().DayOfWeek != DayOfWeek.Sunday) {
                 // Every second ticket is free
                 if (i % 2 == 0) {
                     totalPrice += ticketPrice;

@@ -15,6 +15,10 @@ public class MovieScreening {
     public double getPricePerSeat() {
         return this.pricePerSeat;
     }
+    
+    public DateTime getDateAndTime() {
+        return this.dateAndTime;
+    }
 
     public override string ToString() {
         return this.movie + " " + this.dateAndTime + " " + this.pricePerSeat;
