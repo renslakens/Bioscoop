@@ -22,7 +22,7 @@ public class MovieTicket {
     }
 
     public MovieScreening GetMovieScreening() {
-        
+        return this.movieScreening;
     }
 
     public override string ToString() {
