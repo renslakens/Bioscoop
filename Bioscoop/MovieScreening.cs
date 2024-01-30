@@ -4,7 +4,7 @@ public class MovieScreening {
     private DateTime dateAndTime;
     private double pricePerSeat;
     private Movie movie;
-    private MovieTicket[] tickets;
+    private List<MovieTicket> tickets;
 
     public MovieScreening(Movie movie, DateTime dateAndTime, double pricePerSeat) {
         this.movie = movie;

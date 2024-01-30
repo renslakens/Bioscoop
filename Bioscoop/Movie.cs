@@ -2,14 +2,14 @@
 
 public class Movie {
     private string title;
-    private MovieScreening[] screenings;
+    private List<MovieScreening> screenings;
 
     public Movie(string title) {
         this.title = title;
     }
 
     public void addScreening(MovieScreening screening) {
-        this.screenings.Append(screening);
+        screenings.Add(screening);
     }
 
     public override string ToString() {

@@ -3,17 +3,17 @@
 public class MovieTicket {
     private int RowNr;
     private int SeatNr;
-    private boolean isPremium;
+    private bool isPremium;
     private MovieScreening movieScreening;
 
-    public void MovieTicket(MovieScreening movieScreening, int RowNr, int SeatNr, boolean isPremium) {
+    public MovieTicket(MovieScreening movieScreening, int RowNr, int SeatNr, bool isPremium) {
         this.movieScreening = movieScreening;
         this.RowNr = RowNr;
         this.SeatNr = SeatNr;
         this.isPremium = isPremium;
     }
 
-    public boolean isPremiumTicket() {
+    public bool isPremiumTicket() {
         return this.isPremium;
     }
 
