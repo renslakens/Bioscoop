@@ -1,4 +1,6 @@
-﻿namespace Bioscoop;
+﻿using System.Text.Json;
+
+namespace Bioscoop;
 
 public class Order {
     private int orderNr;
@@ -45,6 +47,33 @@ public class Order {
     }
 
     public void export(TicketExportFormat exportFormat) {
-        
+        string fileName = Path.Combine("C:\\Exports", $"Order_{orderNr}_Export");
+
+
+        if (exportFormat == TicketExportFormat.PLAINTEXT) {
+            Console.WriteLine($"Order {orderNr}");
+            using (StreamWriter sw = File.CreateText($"{fileName}.txt")) {
+                sw.WriteLine($"Order {orderNr}");
+                foreach (MovieTicket ticket in tickets) {
+                    sw.WriteLine(ticket.ToString());
+                }
+                sw.Close();
+            }
+        } else {
+            var jsonRepresentation = new {
+                orderNr,
+                isStudentOrder,
+                tickets = tickets.Select(ticket => new {
+                    isPremiumTicket = ticket.isPremiumTicket(),
+                    price = ticket.getPrice()
+                })
+            };
+
+            string jsonString = JsonSerializer.Serialize(jsonRepresentation, new JsonSerializerOptions {
+                WriteIndented = true
+            });
+
+            File.WriteAllText($"{fileName}.json", jsonString);
+        }
     }
 }
