@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+WX6yLfbSQmhrL53FBQJ8fW3GrKbRUkzBPO+zLLk23/ki9SH+gxErKl4rUTgLZqk7EF8KFWxVJBmeDMNIBnZw==",
+  "dgSpecHash": "6Vr2y/0RDC5BIviz1FDA4HpALRccuQ/stfrTI8xKse28J01TRIwVGdtGCTskK9biShAtTIm/VDjPzUTd0hCTlQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\rensl\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\niekg\\Source\\Repos\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
