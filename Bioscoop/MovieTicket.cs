@@ -4,7 +4,7 @@ public class MovieTicket {
     private int RowNr;
     private int SeatNr;
     private bool isPremium;
-    private MovieScreening movieScreening;
+    private MovieScreening movieScreening { get; }
 
     public MovieTicket(MovieScreening movieScreening, int RowNr, int SeatNr, bool isPremium) {
         this.movieScreening = movieScreening;

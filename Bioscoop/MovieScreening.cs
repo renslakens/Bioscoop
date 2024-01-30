@@ -1,7 +1,7 @@
 ﻿namespace Bioscoop;
 
 public class MovieScreening {
-    private DateTime dateAndTime;
+    private DateTime dateAndTime { get; }
     private double pricePerSeat;
     private Movie movie;
     private List<MovieTicket> tickets;
