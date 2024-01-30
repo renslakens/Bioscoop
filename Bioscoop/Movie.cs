@@ -9,7 +9,7 @@ public class Movie {
     }
 
     public void addScreening(MovieScreening screening) {
-        this.screenings.add(screening);
+        this.screenings.Append(screening);
     }
 
     public override string ToString() {
