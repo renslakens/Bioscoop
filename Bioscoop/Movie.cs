@@ -8,11 +8,15 @@ public class Movie {
         this.title = title;
     }
 
+    public string getTitle() {
+        return this.title;
+    }
+
     public void addScreening(MovieScreening screening) {
         screenings.Add(screening);
     }
 
     public override string ToString() {
-        return this.title + " " + this.screenings;
+        return "Film: " + this.title + this.screenings;
     }
 }

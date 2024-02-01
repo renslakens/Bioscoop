@@ -20,7 +20,11 @@ public class MovieScreening {
         return this.dateAndTime;
     }
 
+    public Movie GetMovie() {
+        return this.movie;
+    }
+
     public override string ToString() {
-        return this.movie + " " + this.dateAndTime + " " + this.pricePerSeat;
+        return this.movie + " Tijd: " + this.dateAndTime + " Prijs per stoel: " + this.pricePerSeat;
     }
 }

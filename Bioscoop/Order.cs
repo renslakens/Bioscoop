@@ -68,8 +68,16 @@ public class Order {
                 orderNr,
                 isStudentOrder,
                 tickets = tickets.Select(ticket => new {
+                    RowNr = ticket.GetRowNr(),
+                    SeatNr = ticket.GetSeatNr(),
                     isPremiumTicket = ticket.isPremiumTicket(),
-                    price = ticket.getPrice()
+                    movieScreening = new {
+                        pricePerSeat = ticket.GetMovieScreening().getPricePerSeat(),
+                        time = ticket.GetMovieScreening().getDateAndTime().ToString("dd-MM-yyyy HH:mm"),
+                        movie = new {
+                            movieName =  ticket.GetMovieScreening().GetMovie().getTitle(),
+                        }
+                    }
                 })
             };
 

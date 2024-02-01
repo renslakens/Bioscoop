@@ -25,7 +25,15 @@ public class MovieTicket {
         return this.movieScreening;
     }
 
+    public int GetRowNr() {
+        return this.RowNr;
+    }
+
+    public int GetSeatNr() {
+        return this.SeatNr;
+    }
+
     public override string ToString() {
-        return this.movieScreening + " " + this.RowNr + " " + this.SeatNr + " " + this.isPremium;
+        return this.movieScreening + " RijNr: " + this.RowNr + " StoelNr: " + this.SeatNr + " IsPremium: " + this.isPremium;
     }
 }
