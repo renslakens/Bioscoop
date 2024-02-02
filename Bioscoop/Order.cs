@@ -29,7 +29,11 @@ public class Order {
 
             // Add premium price for student and non-student orders
             if (tickets[i].isPremiumTicket()) {
-                ticketPrice += isStudentOrder ? 2 : 3;
+                if (isStudentOrder) {
+                    ticketPrice += 2;
+                } else {
+                    ticketPrice += 3;
+                }
             }
 
             // Check if it's a student order or a weekday for non-student orders
@@ -41,12 +45,11 @@ public class Order {
             } else {
                 totalPrice += ticketPrice;
             }
-
-            if (tickets.Count > 6) {
-                totalPrice *= 0.9;
-            }
         }
-        
+        if (tickets.Count >= 6) {
+            totalPrice *= 0.9;
+        }
+
         return totalPrice;
     }
 

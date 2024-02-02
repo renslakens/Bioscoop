@@ -33,19 +33,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rensl\\.nuget\\packages\\": {}
+    "C:\\Users\\niekg\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
+      "projectUniqueName": "C:\\Users\\niekg\\Source\\Repos\\Bioscoop1\\Bioscoop\\Bioscoop.csproj",
       "projectName": "Bioscoop",
-      "projectPath": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
-      "packagesPath": "C:\\Users\\rensl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\obj\\",
+      "projectPath": "C:\\Users\\niekg\\Source\\Repos\\Bioscoop1\\Bioscoop\\Bioscoop.csproj",
+      "packagesPath": "C:\\Users\\niekg\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\niekg\\Source\\Repos\\Bioscoop1\\Bioscoop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rensl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\niekg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

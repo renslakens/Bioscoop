@@ -34,3 +34,21 @@ C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\
 C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.pdb
 C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.genruntimeconfig.cache
 C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\ref\Bioscoop.dll
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\bin\Debug\net8.0\Bioscoop.exe
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\bin\Debug\net8.0\Bioscoop.deps.json
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\bin\Debug\net8.0\Bioscoop.runtimeconfig.json
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\bin\Debug\net8.0\Bioscoop.dll
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\bin\Debug\net8.0\Bioscoop.pdb
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\bin\Debug\net8.0\Json.Net.dll
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.csproj.AssemblyReference.cache
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.AssemblyInfoInputs.cache
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.AssemblyInfo.cs
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.csproj.CoreCompileInputs.cache
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.sourcelink.json
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.csproj.CopyComplete
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.dll
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\refint\Bioscoop.dll
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.pdb
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\Bioscoop.genruntimeconfig.cache
+C:\Users\niekg\Source\Repos\Bioscoop1\Bioscoop\obj\Debug\net8.0\ref\Bioscoop.dll
