@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bioscoop", "Bioscoop\Bioscoop.csproj", "{6F6FF3A8-FE8D-4272-8B56-44339621520D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{E9478DAB-8EC7-4796-85B1-35B25BF606A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{6F6FF3A8-FE8D-4272-8B56-44339621520D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F6FF3A8-FE8D-4272-8B56-44339621520D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F6FF3A8-FE8D-4272-8B56-44339621520D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9478DAB-8EC7-4796-85B1-35B25BF606A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9478DAB-8EC7-4796-85B1-35B25BF606A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9478DAB-8EC7-4796-85B1-35B25BF606A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9478DAB-8EC7-4796-85B1-35B25BF606A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
