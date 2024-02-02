@@ -119,7 +119,7 @@ public class OrderTest {
         var price = order.calculatePrice();
 
         // Assert
-        Assert.Equal(60, price);
+        Assert.Equal(54, price);
     }
 
     [Fact]

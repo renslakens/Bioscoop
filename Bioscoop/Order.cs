@@ -45,12 +45,11 @@ public class Order {
             } else {
                 totalPrice += ticketPrice;
             }
-
-            if (tickets.Count >= 6) {
-                totalPrice *= 0.9;
-            }
         }
-        
+        if (tickets.Count >= 6) {
+            totalPrice *= 0.9;
+        }
+
         return totalPrice;
     }
 
