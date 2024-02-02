@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Bioscoop\\Bioscoop.csproj": {}
+    "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Bioscoop\\Bioscoop.csproj": {
+    "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
+        "projectUniqueName": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
         "projectName": "Bioscoop",
-        "projectPath": "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
-        "packagesPath": "C:\\Users\\niekg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Bioscoop\\obj\\",
+        "projectPath": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
+        "packagesPath": "C:\\Users\\rensl\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\rensl\\Documents\\School\\Jaar 3\\SOFA3\\Bioscoop\\Bioscoop\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\niekg\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\rensl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

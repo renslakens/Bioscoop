@@ -16,3 +16,21 @@ C:\Users\niekg\source\repos\Bioscoop\Bioscoop\obj\Debug\net8.0\refint\Bioscoop.d
 C:\Users\niekg\source\repos\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.pdb
 C:\Users\niekg\source\repos\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.genruntimeconfig.cache
 C:\Users\niekg\source\repos\Bioscoop\Bioscoop\obj\Debug\net8.0\ref\Bioscoop.dll
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\bin\Debug\net8.0\Bioscoop.exe
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\bin\Debug\net8.0\Bioscoop.deps.json
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\bin\Debug\net8.0\Bioscoop.runtimeconfig.json
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\bin\Debug\net8.0\Bioscoop.dll
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\bin\Debug\net8.0\Bioscoop.pdb
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\bin\Debug\net8.0\Json.Net.dll
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.csproj.AssemblyReference.cache
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.AssemblyInfoInputs.cache
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.AssemblyInfo.cs
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.csproj.CoreCompileInputs.cache
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.sourcelink.json
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.csproj.CopyComplete
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.dll
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\refint\Bioscoop.dll
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.pdb
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\Bioscoop.genruntimeconfig.cache
+C:\Users\rensl\Documents\School\Jaar 3\SOFA3\Bioscoop\Bioscoop\obj\Debug\net8.0\ref\Bioscoop.dll
