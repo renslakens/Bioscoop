@@ -46,7 +46,7 @@ public class Order {
                 totalPrice += ticketPrice;
             }
 
-            if (tickets.Count > 6) {
+            if (tickets.Count >= 6) {
                 totalPrice *= 0.9;
             }
         }
