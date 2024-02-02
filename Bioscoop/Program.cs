@@ -10,7 +10,5 @@ order.addSeatReservation(ticket);
 order.addSeatReservation(ticket2);
 order.addSeatReservation(ticket3);
 
-order.export(TicketExportFormat.PLAINTEXT);
-order.export(TicketExportFormat.JSON);
 
 Console.WriteLine($"Orderprice: {order.calculatePrice()}");

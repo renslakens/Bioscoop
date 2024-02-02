@@ -19,9 +19,6 @@ public class OrderTest {
         order.addSeatReservation(ticket2);
         order.addSeatReservation(ticket3);
 
-        order.export(TicketExportFormat.PLAINTEXT);
-        order.export(TicketExportFormat.JSON);
-
         var price = order.calculatePrice();
 
         // Assert
@@ -40,9 +37,6 @@ public class OrderTest {
         order.addSeatReservation(ticket);
         order.addSeatReservation(ticket2);
         order.addSeatReservation(ticket3);
-
-        order.export(TicketExportFormat.PLAINTEXT);
-        order.export(TicketExportFormat.JSON);
 
         var price = order.calculatePrice();
 
@@ -63,9 +57,6 @@ public class OrderTest {
         order.addSeatReservation(ticket2);
         order.addSeatReservation(ticket3);
 
-        order.export(TicketExportFormat.PLAINTEXT);
-        order.export(TicketExportFormat.JSON);
-
         var price = order.calculatePrice();
 
         // Assert
@@ -85,8 +76,6 @@ public class OrderTest {
         order.addSeatReservation(ticket2);
         order.addSeatReservation(ticket3);
 
-        order.export(TicketExportFormat.PLAINTEXT);
-        order.export(TicketExportFormat.JSON);
 
         var price = order.calculatePrice();
 
@@ -113,9 +102,6 @@ public class OrderTest {
         order.addSeatReservation(ticket5);
         order.addSeatReservation(ticket6);
 
-        order.export(TicketExportFormat.PLAINTEXT);
-        order.export(TicketExportFormat.JSON);
-
         var price = order.calculatePrice();
 
         // Assert
@@ -135,9 +121,6 @@ public class OrderTest {
         order.addSeatReservation(ticket);
         order.addSeatReservation(ticket2);
         order.addSeatReservation(ticket3);
-
-        order.export(TicketExportFormat.PLAINTEXT);
-        order.export(TicketExportFormat.JSON);
 
         var price = order.calculatePrice();
 
