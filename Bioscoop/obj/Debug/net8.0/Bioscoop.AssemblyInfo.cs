@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bioscoop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a08b40eace03e6d5039cb0f59942a77c47a1c22")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+199e46dc5f2f46c18e4f64c09212e14ab65244b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bioscoop")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bioscoop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

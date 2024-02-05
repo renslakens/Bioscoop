@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ko48Uqyu5T/7v8vSr+qeN5HjYgved79lcGREkZ93RNsEejEJNvo4SidXWTu0B/JgS+1vvexzCHJU3YFruDqPzA==",
+  "dgSpecHash": "k58nZO+NPpAolQJlDXsHUgxrP28+dLAqUZd/B3TZ99XJAutc7ych21uvVelVT9wI6zVTYArBeZtykW6s2QU4ww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niekg\\source\\repos\\Bioscoop1\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niekg\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\niekg\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",

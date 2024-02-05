@@ -1,10 +1,14 @@
-﻿namespace Bioscoop;
+﻿using Bioscoop.Ticket;
+
+namespace Bioscoop;
 
 public class MovieTicket {
     private int RowNr;
     private int SeatNr;
     private bool isPremium;
     private MovieScreening movieScreening;
+    private PremiumTicket premiumTicket;
+    private StudentTicket studentTicket;
 
     public MovieTicket(MovieScreening movieScreening, int RowNr, int SeatNr, bool isPremium) {
         this.movieScreening = movieScreening;

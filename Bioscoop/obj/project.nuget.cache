@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "To+RaoefywRfx0yEMUqzykcMXTSMO9cWAd69/raRto8iOXmkEneIVTQ+OSUQmkteadvkja5kUZoyhaBZQ6UiOQ==",
+  "dgSpecHash": "Dpq1Q6kzDD0NnkpWhRMpNsIBXbJ5C6iWudC/3AJDTeW7gefiOfj7hX6eGHs5OpD/3YRGVmw3l3yJfr2NirRvTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\niekg\\source\\repos\\Bioscoop1\\Bioscoop\\Bioscoop.csproj",
+  "projectFilePath": "C:\\Users\\niekg\\source\\repos\\Bioscoop\\Bioscoop\\Bioscoop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\niekg\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512"
   ],
