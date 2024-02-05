@@ -8,13 +8,17 @@ public class MovieTicket {
     private bool isPremium;
     private MovieScreening movieScreening;
     private PremiumTicket premiumTicket;
-    private StudentTicket studentTicket;
 
     public MovieTicket(MovieScreening movieScreening, int RowNr, int SeatNr, bool isPremium) {
         this.movieScreening = movieScreening;
         this.RowNr = RowNr;
         this.SeatNr = SeatNr;
-        this.isPremium = isPremium;
+        //this.isPremium = isPremium;
+        if (isPremium) {
+            this.premiumTicket = new IsPremiumTicket();
+        } else {
+            this.premiumTicket = new IsNotPremiumTicket();
+        }
     }
 
     public bool isPremiumTicket() {
@@ -22,7 +26,8 @@ public class MovieTicket {
     }
 
     public double getPrice() {
-        return this.movieScreening.getPricePerSeat();
+        double price = this.premiumTicket.calculatePrice() + this.movieScreening.getPricePerSeat();
+        return price;
     }
 
     public MovieScreening GetMovieScreening() {
